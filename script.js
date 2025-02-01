@@ -123,6 +123,19 @@ const songsList = [
     artist: "JJBA GOLDEN WIND THEME",
     image: "vento.jpeg",
   },
+       {
+
+    name: "Berharap Tak Berpisah",
+    link: "berharap.mp3",
+    artist: "Reza Artamevia",
+    image: "berharap.jpeg",
+  },
+       {
+    name: "Diskoria",
+    link: "diskoria.mp3",
+    artist: "C.H.R.I.S.Y.E.",
+    image: "diskoria.jpeg",
+  },
 ];
 
 //events object
