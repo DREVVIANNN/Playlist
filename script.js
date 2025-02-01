@@ -115,6 +115,14 @@ const songsList = [
     artist: "Tyler The Creator",
     image: "see.jpeg",
   },
+       {
+
+    name: "il vento d'oro",
+
+    link: "vento.mp3",
+    artist: "JJBA GOLDEN WIND THEME",
+    image: "vento.jpeg",
+  },
 ];
 
 //events object
